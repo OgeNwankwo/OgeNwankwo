@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OgeNwankwo
 - 👀 I’m interested in ...Art, music, gaming, sports
-- 🌱 I’m currently learning ...Flutter Dart and Python
-- 💞️ I’m looking to collaborate on ...Software development
+- 🌱 I’m currently learning ...Javascript and Python
+- 💞️ I’m looking to collaborate on ...Software development, web development and design
 - 📫 How to reach me ...ogenwankwo2016@gmail.com
 
 <!---
