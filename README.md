@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Art, music, gaming, sports
 - 🌱 I’m currently learning ...Javascript and Python
 - 💞️ I’m looking to collaborate on ...Software development, web development and design
-- 📫 How to reach me ...ogenwankwo2016@gmail.com
+- 📫 How to reach me ...Nwankwovin18@gmail.com
 
 <!---
 OgeNwankwo/OgeNwankwo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
